@@ -59,3 +59,12 @@ function areYouPlayingBanjo(name) {
   } else return `${name} does not play banjo`;
 }
 ```
+
+## Education:
+
+RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+## Languages:
+
+- Russian
+- Uzbek
