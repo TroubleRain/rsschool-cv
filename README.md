@@ -21,3 +21,14 @@
 **Discord**: @Фаррух#8218
 
 ---
+
+## Skills and Proficiency:
+
+- HTML5, CSS
+- SASS, SCSS
+- JavaScript Basics
+- Git, Github
+- VS Code
+- Figma, Marcy
+
+---
